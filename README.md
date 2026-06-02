@@ -2,7 +2,7 @@
 
 **IMPORTANT**
 
-This platform should be used as a refenrence only. ALWAYS refer the original documents for details and clarity.
+This platform should be used as a refenrence only. **ALWAYS** refer the original documents for details and clarity.
 
 ---
 
