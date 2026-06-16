@@ -24,4 +24,4 @@ This platform should be used as a refenrence only. **ALWAYS** refer the original
 
 # General Notes
 
-## Common CP Anode Comparison [Table](anode_comparision.md)
+## Common CP Anode Category [Table](anode_comparison.md)
