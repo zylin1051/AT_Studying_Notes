@@ -8,6 +8,8 @@ This platform should be used as a refenrence only. **ALWAYS** refer the original
 
 ---
 
+# Specification/Standard Systems
+
 ## Pipeline Transportation Systems
 
 ### International Organization for Standardization (ISO)
@@ -18,3 +20,8 @@ This platform should be used as a refenrence only. **ALWAYS** refer the original
   - [ISO 15589-2-2024 (Offshore Pipelines)](ISO_15589-2-2024.md)
   - [ISO 21809-3-2016 (Field Joint Coatings)](ISO_21809-3-2016.md)
 
+---
+
+# General Notes
+
+## Common CP Anode Comparison [Table](anode_comparision.md)
