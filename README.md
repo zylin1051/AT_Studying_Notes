@@ -54,3 +54,25 @@ A small adhesive sample is placed in a metal ring with a steel ball above it and
 - Higher value: remains firm to a higher temperature.
 - Lower value: begins to soften sooner and may flow more easily at lower temperature.
 - **Indicates the adhesive’s resistance to heat-induced softening**
+
+## Successive Self-Nucleation and Annealing (SSA)
+Measures the distribution of different crystalline structures inside a semicrystalline adhesive.
+An adhesive does not normally contain one uniform type of crystal. It contains many crystal populations:
+- thin, less stable crystals that melt at lower temperatures;
+- thicker, more ordered crystals that melt at higher temperatures;
+- intermediate crystals between them.
+SSA uses repeated heating, partial melting, cooling, and annealing steps to separate the different crystal populations into clearer fractions.
+- sorting the crystals according to how much heat is needed to melt them.
+### How to read one line of SSA
+
+For example:
+
+- 111.4°C, 31.56%, 6.2 nm
+
+This means:
+
+- 111.4°C: melting temperature of that crystalline fraction;
+- 31.56%: that fraction contributes about 31.56% of the total measured melting-area distribution;
+- 6.2 nm: estimated thickness of the crystal lamellae.
+
+Note: the lamellar thickness is normally calculated from melting temperature using a thermal model. It is not measured directly with a microscope.
