@@ -25,3 +25,8 @@ This platform should be used as a refenrence only. **ALWAYS** refer the original
 # General Notes
 
 ## Common CP Anode Category [Table](anode_comparison.md)
+
+## Fourier-transform infrared spectroscopy (FTIR)
+- Molecules absorb infrared light at specific frequencies when that light matches the vibration of their chemical bonds。
+- In an FTIR test, the instrument sends infrared light through or onto the sample. The sample absorbs certain infrared frequencies. The instrument then converts the signal into a spectrum using a mathematical process called a Fourier transform.
+- TIR tells us what chemical bonds are present by looking at where the material absorbs infrared light （i.e. the peaks on the graph).
