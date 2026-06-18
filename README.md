@@ -4,7 +4,7 @@
 
 ## IMPORTANT 
 
-This platform should be used as a refenrence only. **ALWAYS** refer the original documents for details and clarity.
+This platform should be used as a refenrence only. **ALWAYS** refer the original sources or documents, where applicable, for details and clarity.
 
 ---
 
