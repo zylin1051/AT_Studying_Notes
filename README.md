@@ -66,6 +66,18 @@ SSA uses repeated heating, partial melting, cooling, and annealing steps to sepa
   
 ### How to read one line of SSA (there are usually more than one line, each corresponding to one specific crystal population)
 
+| Measure | Unit | How to read it |
+| --- | --- | --- |
+| **Melting-peak temperature** | °C | The temperature around which that particular crystalline population melts. It represents a peak covering a temperature range, not melting at one exact temperature only. |
+| **Relative melting-area fraction** | % | The area of that melting peak divided by the total area of all SSA melting peaks. It shows how much that crystal population contributes to the total crystalline melting signal. It is **not weight percentage**. |
+| **Estimated lamellar thickness** | nm | The estimated average thickness of the crystal lamellae associated with that melting peak. It is calculated from the melting temperature rather than measured directly. Higher-temperature peaks generally correspond to thicker, more thermally stable lamellae. |
+
+### Example
+
+**111.4°C, 31.56%, 6.2 nm** means:
+
+> A crystalline population with an estimated lamellar thickness of **6.2 nm** melts mainly around **111.4°C** and contributes **31.56% of the total SSA crystalline melting area**.
+
 For example:
 
 - 111.4°C, 31.56%, 6.2 nm
