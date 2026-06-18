@@ -29,4 +29,15 @@ This platform should be used as a refenrence only. **ALWAYS** refer the original
 ## Fourier-transform infrared spectroscopy (FTIR)
 - Molecules absorb infrared light at specific frequencies when that light matches the vibration of their chemical bonds。
 - In an FTIR test, the instrument sends infrared light through or onto the sample. The sample absorbs certain infrared frequencies. The instrument then converts the signal into a spectrum using a mathematical process called a Fourier transform.
-- TIR tells us what chemical bonds are present by looking at where the material absorbs infrared light （i.e. the peaks on the graph).
+- TIR tells us what chemical bonds are present by looking at *where the material absorbs infrared light* （i.e. the peaks on the graph).
+
+## Differential scanning calorimetry (DSC)
+- DSC graphs describe the thermal behavior or thermal properties of the adhesive materials (how the material behaves when heated).
+- Area (under the curve above the baseline) tells you how much heat is needed to melt that part of the material.
+- A larger area generally means:
+  - more crystalline material, or
+  - more heat required to melt that melting phase.
+- A smaller area generally means:
+  - less crystalline material, or
+  - a smaller melting contribution.
+- The DSC “area” is the integrated peak area relative to the baseline, and it represents the melting enthalpy in J/g.
