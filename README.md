@@ -1,6 +1,6 @@
 ![AT_logo](advance_tech_logo.png)
 
-**Last Updated: June 2, 2026**
+
 
 ## IMPORTANT 
 
