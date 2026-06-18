@@ -63,7 +63,8 @@ An adhesive does not normally contain one uniform type of crystal. It contains m
 - intermediate crystals between them.
 SSA uses repeated heating, partial melting, cooling, and annealing steps to separate the different crystal populations into clearer fractions.
 - sorting the crystals according to how much heat is needed to melt them.
-### How to read one line of SSA
+  
+### How to read one line of SSA (there are usually more than one line)
 
 For example:
 
