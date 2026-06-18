@@ -27,13 +27,13 @@ This platform should be used as a refenrence only. **ALWAYS** refer the original
 ## Common CP Anode Category [Table](anode_comparison.md)
 
 ## Fourier-transform infrared spectroscopy (FTIR)
-Used for identifying the chemical backbone (main composition)
+Used for identifying the **chemical backbone (main composition)**
 - Molecules absorb infrared light at specific frequencies when that light matches the vibration of their chemical bonds。
 - In an FTIR test, the instrument sends infrared light through or onto the sample. The sample absorbs certain infrared frequencies. The instrument then converts the signal into a spectrum using a mathematical process called a Fourier transform.
 - TIR tells us what chemical bonds are present by looking at *where the material absorbs infrared light* （i.e. the peaks on the graph).
 
 ## Differential scanning calorimetry (DSC)
-Used for identifying the thermal properties (the behaviour when heated)
+Used for identifying the **thermal properties (the behaviour when heated)**
 - DSC graphs describe the thermal behavior or thermal properties of the adhesive materials (how the material behaves when heated).
 - Area (under the curve above the baseline) tells you how much heat is needed to melt that part of the material.
 - A larger area generally means:
