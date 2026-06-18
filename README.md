@@ -43,3 +43,8 @@ Used for identifying the **thermal properties (the behaviour when heated)**
   - less crystalline material, or
   - a smaller melting contribution.
 - The DSC “area” is the integrated peak area relative to the baseline, and it represents the melting enthalpy in J/g.
+
+## Melt Flow Rate (MFR)
+Measures how easily a **molten polymer** flows under *a specified temperature and load*.
+- Unit: g/10 min
+- A polymer sample is heated until molten. Then a standard weight pushes the molten polymer through a small opening. The lab measures how much material flows out in 10 minutes.
