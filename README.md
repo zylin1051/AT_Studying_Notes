@@ -45,7 +45,11 @@ Used for identifying the **thermal properties (the behaviour when heated)**
 - The DSC “area” is the integrated peak area relative to the baseline, and it represents the melting enthalpy in J/g.
 
 ### Scan Rate
-- 
+- The polymer can be heated at different rate, measured in Kelvin per minute (i.e. 20K / min).
+- Typical heating-rate effects are:
+  - Faster heating may shift a melting or reaction peak to a somewhat higher apparent temperature.
+  - Faster cooling may shift crystallization to a lower temperature because more supercooling is required.
+  - Slower heating may allow crystals to reorganize before melting, which can change the peak shape or area.
 
 ## Melt Flow Rate (MFR)
 Measures how easily a **molten polymer** flows under *a specified temperature and load*.
